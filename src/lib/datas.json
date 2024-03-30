@@ -1,0 +1,6 @@
+{
+    "adds":[
+        {"name":"home","link":"/"},
+        {"name":"name","link":"/name"}
+    ]
+}
